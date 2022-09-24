@@ -1,0 +1,27 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    padding: 10rem;
+    align-items: center;
+    background-color: white;
+};
+
+.imagesLogo{
+    display: flex;
+    gap:4rem;
+};
+
+.contactText{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1rem;
+};
+
+.logoContact{
+    transition: transform .2s;
+};
+
+.logoContact:hover{
+    transform: scale(1.1);
+};

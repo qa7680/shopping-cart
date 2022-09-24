@@ -1,0 +1,49 @@
+.homeSection{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 7.5rem 10.5rem;
+    background-color: #E3E3E3;
+};
+
+.homeSection img{
+    border-radius:25px;
+    transition: transform .7s ease-in-out;
+};
+.homeSection img:hover {
+    transform: rotate(180deg);
+};
+.shop{
+    background-color: black;
+    color:white;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    font-size: large;
+    border-radius: 8px;
+    cursor: pointer;
+};
+.shop:hover{
+    opacity: 0.7;
+};
+.homeLeft{
+    font-size: large;
+};
+.paraHome{
+    color: #595757;
+    font-size: 1.1rem;
+    font-weight: bold;
+    letter-spacing: 0.3rem;
+};
+.homeImage{
+    width: 500px;
+    height: 500px;
+}
+
+@media (min-width: 300px) and (max-width: 800px){
+    .homeSection{
+        display: block;
+        padding: 0;
+        justify-self: center;
+    }
+}

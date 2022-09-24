@@ -1,0 +1,35 @@
+@font-face {
+    font-family: poppins;
+    src: url('../Poppins-Regular.ttf')
+}
+
+html,body{
+    min-height:100%; 
+    padding: 0;
+    margin: 0;
+    min-width: fit-content;
+}
+
+body{
+    font-family: poppins;
+    margin:0;
+    padding: 0;
+    background-color: #E3E3E3;
+}
+
+#root{
+    min-height: 100vh;
+    padding: 0;
+    margin:0;
+};
+
+@media (max-width: 768px){
+    body,html{
+        min-height: 100%;
+    }
+    .homeImage{
+        width: 250px;
+        height: 250px;
+    }
+
+}

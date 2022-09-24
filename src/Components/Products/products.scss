@@ -1,0 +1,41 @@
+.cardGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 5rem 16rem;
+    background-color: #fbfbfb;
+}
+
+.card{
+    border: 1px solid rgb(229, 228, 228);
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: white;  
+}
+
+.cardImg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cardImg img{
+    border-radius: 6px 6px 0 0px;
+}
+.cardInfo{
+    padding-bottom: 1.5rem;
+};
+.cardInfo button{
+    padding: 1rem 6rem;
+    font-size: large;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.cardInfo button:hover{
+    opacity: 0.7;
+}

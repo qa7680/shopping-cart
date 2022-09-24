@@ -1,0 +1,84 @@
+[
+        {
+            "id": 1,
+            "name": "Converse 4",
+            "price": "$79.99",
+            "priceDec": 79.99,
+            "count": 0,
+            "img": {"name":"converse.jpg", "width": "427px", "height": "285px"}
+            
+        },
+        {
+            "id": 2,
+            "name": "Cleats",
+            "price": "$99.99",
+            "priceDec": 99.99,
+            "count": 0,
+            "img": {"name": "cleats.jpg", "width": "427px", "height": "285px"}
+        },
+        {
+            "id": 3,
+            "name": "Puma Cheetas 5",
+            "price": "$49.99",
+            "priceDec": 49.99,
+            "count": 0,
+            "img": {"name": "puma.jpg", "width": "427px", "height": "285px"}
+        },
+        {
+            "id": 4,
+            "name": "Casual Boots",
+            "price": "$29.99",
+            "priceDec": 29.99,
+            "count": 0,
+            "img": {"name":"boots_2.jpg", "width": "427px", "height": "285px"}
+        },
+        {
+            "id": 5,
+            "name": "Business Man",
+            "price": "$99.99",
+            "priceDec": 99.99,
+            "count": 0,
+            "img": {"name":"business.jpg", "width": "427px", "height": "285px"}
+        },
+        {
+            "id": 6,
+            "name": "Adidas 7",
+            "price": "$109.99",
+            "priceDec": 109.99,
+            "count": 0,
+            "img": {"name":"adidas.jpg", "width": "427px","height": "285px"}
+        },
+        {
+            "id": 7,
+            "name": "Nike Shoes",
+            "price": "$89.99",
+            "priceDec": 89.99,
+            "count": 0,
+            "img": {"name": "nike.jpg", "width": "427px", "height": "285px" }
+        },
+        {
+            "id": 8,
+            "name": "Jordan 1",
+            "price": "$159.99",
+            "priceDec": 159.99,
+            "count": 0,
+            "img": {"name":"jordan1.jpg", "width": "427px", "height": "285px"}
+        },
+        {
+            "id": 9,
+            "name": "New Balance 2",
+            "price": "$59.99",
+            "priceDec": 59.99,
+            "count": 0,
+            "img": {"name":"newbalance.jpg", "width": "427px", "height": "285px"}
+        },
+        
+        {
+            "id": 10,
+            "name": "Under Armour Curry 3",
+            "price": "$99.99",
+            "priceDec": 99.99,
+            "count": 0,
+            "img": {"name":"underarmour.jpg", "width": "427px", "height": "285px"}
+        }   
+]
