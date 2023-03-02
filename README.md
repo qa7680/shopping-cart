@@ -1,4 +1,4 @@
-## https://shopping-cart-c6851.web.app/
+## E-commerce website built using React and firebase.
 
 ## Getting Started with Create React App
 
